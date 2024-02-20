@@ -1,0 +1,252 @@
+Se-tool-worksheet:
+the-center-for-implementation
+info@thecenterforimplementation.com
+thecenterforimplementation.com© 2022 The Center for Implementation Inc.
+StrategEase Tool
+Worksheets
+Click here to access the tool.
+What is your vision of where you are going? Why are you doing this work?
+Define your WHY
+Getting started
+Select the THING
+Define the WHAT and the WHO
+What is the THING you want to implement (e.g., program, guideline…)?
+Describe all of the people / groups of people who are being asked to change. For
+each WHO, describe WHAT they are being asked to do (the 7 Ps can help)!
+WHO WHAT
+Barrier / Facilitator #1
+Assessing barriers & facilitators
+Note: Duplicate this and the following pages for each WHO and WHAT you address
+Select one WHO and WHAT. List the top barriers that emerge as the most
+important/impactful. Ultimately, you will want to address as many barriers /
+facilitators as possible, but we recommend starting with 3-5 barriers. Then you
+can duplicate this page once you are ready to work through the others.
+Barrier / Facilitator #2
+Barrier / Facilitator #3
+Barrier / Facilitator #4
+Barrier / Facilitator #5
+Select all domains that best match your barrier / facilitator.
+Barrier / Facilitator
+Mapping barriers & facilitators
+Mapping to the Theoretical Domains Framework
+Cane, J., O’Connor, D., & Michie, S. (2012). Validation of the theoretical domains framework for use in
+behaviour change and implementation research. Implementation Science, 7(37).
+https://doi.org/10.1186/1748-5908-7-37
+Figure developed by The Center for Implementation
+Note: Duplicate this page for each barrier / facilitator you address.
+Write below your mapped domains.
+Barrier / Facilitator
+Selecting change strategies
+Mapping to the Theoretical Domains Framework
+Selecting strategies
+Write below the selected Function (Type of HOW) and your chosen strategies.
+Function:
+Note: Duplicate this page for each barrier / facilitator you address.
+COM-B / TDF / Functions image
+Click here to download the Functions (Types of HOWs) image
+Download the full resolution image
+Enacting change strategies
+HOW (change strategy):
+What change in behaviour is the HOW supporting?
+WHO is the recipient of the strategy? WHO will deliver the strategy?
+For / with / on behalf of WHOM is the
+strategy being delivered?
+WHEN is the strategy
+being delivered?
+In what context will the strategy be delivered?
+What barriers and facilitators does the strategy address?
+This template was adapted from: Presseau, J., McCleary, N., Lorencatto, F. et al. Action, actor, context,
+target, time (AACTT): a framework for specifying behaviour. Implementation Sci 14, 102 (2019).
+https://doi.org/10.1186/s13012-019-0951-x
+Knowledge: An awareness of the existence of something
+Skills: An ability or proficiency acquired through practice
+Memory, Attention, & Decision Processes: The ability to retain
+information, focus selectively on aspects of the environment and choose
+between two or more alternatives
+Behavior Regulation (e.g., habits): Anything aimed at managing or
+changing objectively observed or measured actions
+Beliefs about Capabilities (e.g., confidence): Acceptance of the truth,
+reality, or validity about an ability, talent, or facility that a person can put to
+constructive use.
+Social/Professional Role/Identity: A coherent set of behaviours and
+displayed personal qualities of an individual in a social or work setting
+Beliefs about Consequences: Acceptance of the truth, reality, or validity
+about outcomes of a behaviour in a given situation
+Emotions: A complex reaction pattern, involving experiential, behavioural,
+and physiological elements, by which the individual attempts to deal with a
+personally significant matter or event
+Goals (e.g., I want to): Mental representations of outcomes or end states
+that an individual wants to achieve
+Intentions (e.g., I plan to): A conscious decision to perform a behaviour or
+a resolve to act in a certain way.
+Reinforcing Behavior: Increasing the probability of a response by
+arranging a dependent relationship, or contingency, between the response
+and a given stimulus.
+Theoretical Domain Framework (TDF)
+Definitions
+Cane, J., O’Connor, D., & Michie, S. (2012). Validation of the theoretical domains
+framework for use in behaviour change and implementation research. Implementation
+Science, 7(37). https://doi.org/10.1186/1748-5908-7-37
+Optimism/Pessimism: The confidence that things will happen for the
+best or that desired goals will be attained or the tendency to see the
+worst aspect of things or believe that the worst will happen
+Environmental Context/Resources: Any circumstance of a person's
+situation or environment that discourages or encourages the
+development of skills and abilities, independence, social competence,
+and adaptive behaviour.
+Social Influences (e.g., influenced by others): Those interpersonal
+processes that can cause individuals to change their thoughts, feelings,
+or behaviours.
+Functions (Types of HOWs)
+Educating: Increasing knowledge or understanding.
+Training: Imparting skills.
+Modeling: Providing an example for people to aspire to imitate.
+Persuading: Using communication to induce positive or negative
+feelings or simulate action.
+Incentivizing: Creating expectation of reward.
+Enabling: Increasing means/reducing barriers to increase capability or
+opportunity.
+Environmental Restructuring: Changing the physical or social
+context.
+Restricting: Using rules to reduce the opportunity to engage in target
+behaviors (or to increase target behaviors by reducing opportunities to
+engage in competing behaviors).
+COM-B / TDF image
+Click here to download the COM-B / TDF Image
+Download the full resolution image
+Accreditation: Strive to alter accreditation standards so that they require
+or encourage people to do that WHAT. Work to alter membership
+organization requirements so that those who want to affiliate with the
+organization are encouraged or required to do the WHAT.
+Action planning: Detailed plan of how to perform the behavior.
+Allocations of funds: Allocate or re-allocate resources to meet needs
+(including funds, human resources, physical space…).
+Audit and feedback: Collect and summarize performance data related to
+the ideal practice over a specified time period and give it to providers and
+administrators to monitor, evaluate, and modify behavior.
+Build a coalition/network: Identify and build a coalition or network of
+individuals and/or organizations who share the same goals, vision, or desire
+to implement the THING (e.g., a coalition may be best suited for policy
+change; a network may be considered to understand and address
+problems, create solutions, and disseminate best practices).
+Capture and share local knowledge: Capture local knowledge from
+implementation sites on how individuals implemented the WHAT within their
+setting and then share knowledge with other sites (e.g., data, resources,
+lessons learned, etc.).
+Champions: Identify individuals who show interest and prepare them to
+dedicate themselves to supporting, marketing, and overcoming indifference
+or resistance related to implementing the doing the WHATs.
+Change payment schemes or structures: Set system priorities to
+encourage implementation of the THING or WHATs by establishing
+government/funder/service payer funding formulas, proposal requests, and
+how providers are paid for providing the THING or supporting the use of
+WHATs.
+Definitions
+Change Strategies
+Change policies: Change a policy (e.g., at an organizational level) to
+facilitate the adoption of the WHATs.
+Change sites that provide services: Change the setting where the
+WHAT is provided (e.g., specialized vs. non specialized facility).
+Change the physical environment: Change the physical environment to
+support the use of the WHAT (e.g., change layout of a room, add required
+equipment).
+Community of Practice (CoP): Facilitate the formation of groups of
+providers or provider organizations, and foster a collaborative learning
+environment to improve implementation of the WHATs (e.g., a CoP where
+groups of people with a common interest deepen their knowledge and
+expertise in this area by interacting on an ongoing basis).
+Competency-based training: Plan and conduct training in the WHATs in
+an ongoing manner for all individuals involved.
+Data sharing: Acquire, manage, report, and use data to influence
+providers to adopt the WHAT.
+Develop disincentives: Work to disincentivize the adoption and
+implementation of the WHAT.
+Educational materials: Create and distribute educational materials (e.g.,
+guidelines, manuals, and toolkits) in person, by mail, and/or electronically
+to improve knowledge about the WHAT.
+Educational sessions: Hold meetings involving the audience (e.g.,
+providers, administrators, other organizational groups, and community,
+patient/consumer, and families) to improve knowledge about the WHAT.
+Engage leaders: Engage and train designated change leaders (e.g.,
+within an organization or recruit from outside to fill roles such as
+executive sponsor or day-to-day manager) to support implementing the
+change.
+Facilitation: Provide practice facilitation through a process of problem
+solving, enabling, and supporting individuals and organizations to adopt
+the WHATs.
+Goal setting: Identify or agree on a defined goal (e.g., a planned
+behavior change).
+Identify early adopters: Identify individuals at local sites that can inspire
+others. They can be people tasked with implementing the WHATs and
+those that are already applying it.
+Implementation coaching: Seek guidance from experts in
+implementation to support and provide training for the implementation
+initiative.
+Integrating the topic into staff meetings: Discuss the WHATs in staff
+meetings.
+Involve executive boards: Connecting with and engaging executive
+boards in the initiative and potentially taking actions to support the
+initiative.
+Knowledge broker: Use a knowledge broker (e.g., individual, groups,
+organizations) to provide a link between researchers, intermediaries,
+implementers, and end-users to develop relationships, provide ongoing
+support, and build capacity to support implementation of the WHATs.
+Leaders supporting the change: Leaders express their support for the
+WHATs or the overall vision of where the work is going.
+Local consensus process: Engage local providers and other relevant
+partners in discussions about whether the chosen problem is important
+and whether the selected THING to address it is appropriate (e.g.,
+adapting a guideline for a local health system).
+Local opinion leaders: Inform providers identified by colleagues as
+opinion leaders or "educationally influential" about the WHATs and
+support them to influence colleagues to adopt the WHATs.
+Mandate change: Have leadership declare the priority of the THING or
+the WHAT and their commitment to seeing it implemented.
+Mass media: Use media to reach large numbers of people to spread the
+word about the THING or the WHAT.
+Mentorship: Adopt formal or informal mentorship models to support use
+of the WHAT.
+Model change: Have experts/leaders/respected colleagues’ model or
+simulate the WHATs.
+Opinion leaders: Identify individuals who have a lot of influence and are
+usually the people who others automatically turn to for advice.
+Patients/public as active participants: Prepare
+patients/consumers/public to be active in the change (e.g., to ask
+questions about the WHAT, and evidence behind the THING).
+Peer-to-peer learning: Partner individuals (e.g., in similar roles,
+occupations, etc.) for the purpose of shared training and building
+capacity.
+Problem solving: Analyze or prompt people to analyze barriers and
+facilitators to achieving a change or goal.
+Prompts/cues: Develop systems to help individuals recall information
+and/or prompt them to use the WHAT.
+Provide supervision: Provide individuals with ongoing supervision
+focused on the WHAT. Supervisors who will supervise individuals should
+also be trained in the WHAT.
+Public demand: Attempt to influence “market” (public demand) to
+increase the need for the THING.
+Record systems: Change records systems to allow better capturing of
+information and assessment of implementation or innovation outcomes
+related to the WHATs (e.g., electronic patient records).
+Reminders: Develop reminder systems to help providers recall
+information and/or prompt the performance of the WHAT.
+Restructure the environment: Physically change the environment to
+support the change.
+Revise professional roles: Shift and revise roles among professionals
+and redesign job characteristics to promote uptake of the WHATs.
+Self-monitoring of behavior: Establish a method for the person to
+monitor and record their behaviour(s) (e.g., tracking what you eat).
+Shadow other experts: Provide ways for designated WHOS to directly
+observe other experienced people perform the WHAT.
+Simulate change: Use technology or interactions with other to practice
+doing the WHAT is a simulated environment (e.g., role play or practicing
+with an app).
+Social support: Advise on, arrange or provide social support (e.g.,
+encouragement, problem solving, and/or emotional support).
+Train-the-trainer: Train designated providers or organizations so that
+they can train others in the WHATs.
+Visit other sites: Visit sites that have been successful in implementing
+the WHATs.
+Work with educational institutions: Encourage educational institutions
+to train providers in the WHATs.
+
