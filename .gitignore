@@ -1,0 +1,5 @@
+assistant.json
+.pythonlibs
+poetry.lock
+pyproject.toml
+functions.cpython-310.pyc
